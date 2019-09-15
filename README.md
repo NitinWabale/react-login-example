@@ -1,4 +1,4 @@
-# sample ID login App
+# Sample ID login App
 This is App used for login and token management
 
 DB used is `MySQL`
